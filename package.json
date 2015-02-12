@@ -1,7 +1,7 @@
 {
   "name": "point-in-polygon",
-  "description": "determine if a point is inside a polygon with a ray intersection counting algorithm",
-  "version": "0.0.1",
+  "description": "determine if a point or a polygon is inside a polygon with a ray intersection counting algorithm",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/substack/point-in-polygon.git"
